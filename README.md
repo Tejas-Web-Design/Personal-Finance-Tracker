@@ -72,6 +72,3 @@ src/
 
 ---
 
-## 📜 License
-
-MIT License
